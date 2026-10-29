@@ -7,7 +7,10 @@ That's it!
 > [!TIP]
 > If you give a one-time [sponsorship](https://github.com/sponsors/aschmelyun?frequency=one-time&sponsor=aschmelyun) of any amount beforehand, your profile picture will be printed in a **special frame**.
 
-<img width="480" height="270" alt="Holding up a photo of me printed on a receipt" src="https://github.com/user-attachments/assets/5a0cf6d9-b619-4a01-bf2f-5fe0a7f9dd24" />
+<img width="360" height="270" alt="Holding up a photo of me printed on a receipt" src="https://github.com/user-attachments/assets/ecc5eb0a-d4cc-42fc-95f3-c0ea50df649b" />
+
+<img width="360" height="270" alt="Pinning a receipt to a board called the Hall of Frame" src="https://github.com/user-attachments/assets/43bd7bb8-dc86-44bf-9c82-6a4ad7553435" />
+
 
 ## How's it work?
 
