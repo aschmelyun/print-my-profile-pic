@@ -23,6 +23,8 @@ The RPi is connected to an Epson TM-T88IV thermal receipt printer via USB, and t
 
 It sounded fun when my friend [Sam](https://x.com/samwhoo) mentioned it. That's pretty much it!
 
-## Contributing
+## What now?
+
+I'll periodically update this README with a picture of the pinboard I've dubbed the "Hall of Frame" as pictures get added to it. 
 
 Want to add a new frame? Send in a PR! 
