@@ -1,6 +1,6 @@
 # print-my-profile-pic
 
-Star this repo, and your GitHub profile picture will be printed out on my receipt printer and stuck to my wall. 
+Star this repo to have your GitHub profile picture framed, printed out on my receipt printer, and stuck to my wall. 
 
 That's it!
 
