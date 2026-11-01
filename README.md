@@ -18,7 +18,7 @@ GitHub allows you to create webhooks for specific events on your repos, I've set
 
 When that happens, a payload is POSTed to a [Cloudflare tunnel](https://developers.cloudflare.com/tunnel/) domain, which leads to a PHP script running on a Raspberry Pi that's sitting on my desk.
 
-From the inbound request, you can gleen info about the person who starred the repo, like their display name and avatar URL. The script takes their profile picture, renders it behind a cut-out of a photo frame, and then adds some other info I thought should be included in each receipt.
+From the inbound request, you can glean info about the person who starred the repo, like their display name and avatar URL. The script takes their profile picture, renders it behind a cut-out of a photo frame, and then adds some other info I thought should be included in each receipt.
 
 The RPi is connected to an Epson TM-T88IV thermal receipt printer via USB, and the PHP script uses my go-to [escpos-php](https://github.com/mike42/escpos-php) library to format the receipt data and send it off to the printer.
 
